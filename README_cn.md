@@ -1,4 +1,4 @@
-[English](https://github.com/CocosBCX/cocos-sdk/blob/master/README.md)
+[English](https://github.com/CocosBCX/cocos-sdk/blob/master/readme.md)
 
 # Loom SDK for Cocos Creator
 
